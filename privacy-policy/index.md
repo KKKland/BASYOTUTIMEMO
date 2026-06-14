@@ -91,4 +91,4 @@ https://policies.google.com/privacy
 
 本アプリに関するお問い合わせは、以下までお願いいたします。
 
-メールアドレス：ここに連絡先メールアドレスを入力
+(https://docs.google.com/forms/d/e/1FAIpQLSf0QzYe6f_XdPKuSnD7AxInIySQMWGbqL3y3_nOO3HUwxmU4g/viewform?usp=publish-editor)
